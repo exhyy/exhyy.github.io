@@ -1,22 +1,18 @@
 main:
+  - title: "Speculative Decoding for Diffusion Language Models"
+    authors: "anonymous"
+    conference: "ICLR 2027 under review"
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "CabinProAct: Visually Triggered Proactive Intervention for Intelligent Cabin Agents"
+    authors: "Chengqing Bu, Mengxue Qu, Mingming Ma, <strong>Yuyao Huang</strong>, Yao Zhao, Yunchao Wei"
+    conference: "Findings of the Association for Computational Linguistics: EMNLP 2026."
+    topics: "Multimodal Agents, Proactive Intervention"
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Adaptive Sensor Selection for Power Efficient 3D Object Detection on Autonomous Driving"
+    authors: "<strong>Yuyao Huang</strong>, Jie Peng, Yao Zhao, Yanyong Zhang, Tianlong Chen, Yunchao Wei"
+    topics: "Efficient AI, 3D Object Detection"
+
+  - title: "Region-Native Visual Tokenization"
+    authors: "Mengyu Wang, <strong>Yuyao Huang</strong>, Henghui Ding, Xinlong Wang, Tiejun Huang, Yao Zhao, Yunchao Wei, Shuicheng Yan"
+    conference: "European Conference on Computer Vision (ECCV), 2024."
+    topics: "Visual Tokenization, Image Editing"
